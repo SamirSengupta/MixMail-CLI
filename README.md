@@ -146,5 +146,7 @@ python -m build
 This generates artifacts in `dist/`.
 
 ## License
+MIT License
 
-Add a license file if you plan to distribute MixMail publicly.
+## Website
+https://www.samcodeman.com
